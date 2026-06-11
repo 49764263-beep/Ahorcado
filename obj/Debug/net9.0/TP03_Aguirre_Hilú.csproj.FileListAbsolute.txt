@@ -287,3 +287,4 @@ Z:\2026\TP03_java_Aguirre_Hilú\TP03_Aguirre_Hilú\TP03_Aguirre_Hilú\obj\Debug\
 Z:\2026\TP03_java_Aguirre_Hilú\TP03_Aguirre_Hilú\TP03_Aguirre_Hilú\obj\Debug\net9.0\TP03_Aguirre_Hilú.pdb
 Z:\2026\TP03_java_Aguirre_Hilú\TP03_Aguirre_Hilú\TP03_Aguirre_Hilú\obj\Debug\net9.0\TP03_Aguirre_Hilú.genruntimeconfig.cache
 Z:\2026\TP03_java_Aguirre_Hilú\TP03_Aguirre_Hilú\TP03_Aguirre_Hilú\obj\Debug\net9.0\ref\TP03_Aguirre_Hilú.dll
+Z:\2026\TP03_java_Aguirre_Hilú\TP03_Aguirre_Hilú\TP03_Aguirre_Hilú\obj\Debug\net9.0\TP03_Aguirre_Hilú.sourcelink.json
