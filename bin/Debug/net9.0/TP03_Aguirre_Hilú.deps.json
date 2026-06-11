@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "TP03_Aguirre_Hilú/1.0.0": {
+        "runtime": {
+          "TP03_Aguirre_Hilú.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TP03_Aguirre_Hilú/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

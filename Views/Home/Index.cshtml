@@ -1,0 +1,17 @@
+﻿<section class="text-center">
+    <div>
+        <h1 class="display-4">EL AHORCADO</h1>
+        <h3>Se va a elegir aleatoriamente una palabra. Hay un guión por cada letra de la palabra secreta. Ingresá una letra que creas que está en la palabra secreta y el sistema te va a decir si está o no. Adiviná la palabra antes de los 10 intentos (fallidos).</h3>
+    </div>
+    <div>
+        <input type="hidden" id="Palabra" value="@ViewBag.Palabra"></input>
+        <p>Letras fallidas:</p>
+        <div id ="LetrasFallidas"></div>
+        <p>Intentos faltantes:</p>
+        <div id ="Intentos">10</div>
+        <h2 id="PalabraOculta">@ViewBag.PalabraOculta</h2>
+        <input type ="text" id ="Letra" maxlength ="1">
+        <button onclick="arriesgarLetra()">Arriesgar</button>
+        <div id="Rta"></div>
+    </div>
+</section>
